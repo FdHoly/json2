@@ -1,0 +1,37 @@
+{
+    "Mahasiswa": [
+        {
+                "nama": "Joey Vilbert",
+                "nim": "185150707111001",
+                "angkatan": "2018",
+                "kelas": "A",
+                "produk": {
+                    "pname1": "Pemrograman Integratif",
+                    "pstock1": "A1",
+                    "pprice1": "3",
+               	    "pname2": "Pemrograman Web",
+                    "pstock2": "A2",
+                    "pprice2": "4",
+	            "pname3": "Pemrograman Mobile",
+                    "pstock3": "A3",
+                    "pprice3": "5"}
+        },
+        
+        {
+                "nama": "Sam Boha",
+                "nim": "125150707111002",
+                "angkatan": "2012",
+                "kelas": "C",
+                "produk": {
+                    "pname1": "Metode Penelitian",
+                    "pstock1": "D2",
+                    "pprice1": "3",
+               	    "pname2": "Etika Profesi",
+                    "pstock2": "G2",
+                    "pprice2": "2",
+	            "pname3": "Kewarganegaraan",
+                    "pstock3": "CZ3",
+                    "pprice3": "2"}
+        }
+    ]
+}
